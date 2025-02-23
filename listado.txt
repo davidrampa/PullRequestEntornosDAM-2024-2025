@@ -4,4 +4,7 @@ Profesor: Juan Manuel Vicente Fenoy
 
 Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para que se vea como una lista
 
-Alumnado (Apellidos, Nombre): diaz fernandez cesar raul
+Alumnado (Apellidos, Nombre):
+- Prueba prueba, Alumno
+- Hernández González, Jaime
+- diaz fernandez cesar raul
