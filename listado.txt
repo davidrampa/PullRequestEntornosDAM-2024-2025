@@ -10,3 +10,4 @@ Alumnado (Apellidos, Nombre):
 - Díaz Fernández, César Raúl 
 - Oña Tijeras, Juan Antonio
 - David García Cruz
+- Bobakr Imelouane Kadari
